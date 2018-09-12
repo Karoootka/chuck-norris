@@ -1,0 +1,33 @@
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  background: url('../images/chuck.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+#get-joke {
+  display: block;
+  margin: 10px auto;
+  background-color: #914233;
+  color: #FCDAB7;
+  border: none;
+  height: 30px;
+  width: 100px;
+  cursor: pointer;
+  &:active {
+    transform: scale(0.9);
+  }
+}
+
+.joke-box {
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+  background-color: rgba(224, 177, 130, 0.8);
+  padding: 10px;
+}
