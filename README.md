@@ -2,7 +2,7 @@
 
 Zadanie wykonane w ramamch bootcampu Kodilla - "Web developer"
 
-Opis: Przećwiczenie wykorzystanie technologii AJAX. Aplikacja pobiera losowy dowcip o Chucku Norrisie z API http://api.icndb.com .
+Opis: Przećwiczenie wykorzystania technologii AJAX. Aplikacja pobiera losowy dowcip o Chucku Norrisie z API http://api.icndb.com .
 
 Rozwiązania, tchnologie i narzędzia:
 
